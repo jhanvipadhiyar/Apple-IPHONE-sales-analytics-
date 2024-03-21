@@ -1,4 +1,4 @@
-#Apple-iPhone-Sales-Analytics-using-Python
+Apple-iPhone-Sales-Analytics-using-Python
 
 In this analytics project with python, I dived into Apple iPhone sales data to uncover insights related to top-selling models and top models according to their rating and reviews based on discount percentage and sale as well. Leveraging a combination of data analytics techniques, I focused on three key aspects:
 
